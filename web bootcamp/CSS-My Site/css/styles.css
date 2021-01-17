@@ -1,0 +1,43 @@
+.top{
+  background-color: #fde8cd;
+  padding-top: 100px;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Redressed', cursive;
+}
+
+body{
+  margin:0;
+  text-align: center;
+}
+
+.middle{
+
+}
+
+.bottom{
+
+}
+
+.handmade{
+  height: 250px;
+  border: thick solid #433520;
+}
+
+.craft{
+  height: 250px;
+  width: 260px;
+  border: thick solid #433520;
+}
+
+.vintage{
+  height: 250px;
+  width: 260px;
+  border: thick solid #433520;
+}
+
+.long{
+  shape-outside: circle(500%);
+}
